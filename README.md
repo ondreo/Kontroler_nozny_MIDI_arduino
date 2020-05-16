@@ -1,5 +1,5 @@
 # Kontroler_nozny_MIDI_arduino
-# autor @Ondreo
+autor @Ondreo
  
 Prezentacja projektu:
 https://youtu.be/W7-lHoQMDRU
